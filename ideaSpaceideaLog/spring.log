@@ -1,0 +1,12 @@
+2022/07/26-22:34 [main] INFO  com.example.webdemo.WebDemoApplication- Starting WebDemoApplication on YUUY with PID 18460 (E:\ideaSpace\webDemo\target\classes started by YUUY in E:\ideaSpace\webDemo)
+2022/07/26-22:34 [main] DEBUG com.example.webdemo.WebDemoApplication- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2022/07/26-22:34 [main] INFO  com.example.webdemo.WebDemoApplication- No active profile set, falling back to default profiles: default
+2022/07/26-22:34 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 8080 (http)
+2022/07/26-22:34 [main] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2022/07/26-22:34 [main] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/9.0.31]
+2022/07/26-22:34 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]- Initializing Spring embedded WebApplicationContext
+2022/07/26-22:34 [main] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 619 ms
+2022/07/26-22:34 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2022/07/26-22:34 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 8080 (http) with context path ''
+2022/07/26-22:34 [main] INFO  com.example.webdemo.WebDemoApplication- Started WebDemoApplication in 1.145 seconds (JVM running for 1.923)
+2022/07/26-23:36 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Shutting down ExecutorService 'applicationTaskExecutor'
